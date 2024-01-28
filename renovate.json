@@ -1,5 +1,5 @@
 {
-  "gradle-lite": {
+  "gradle": {
     "enabled": true
   }
 }
